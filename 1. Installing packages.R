@@ -1,0 +1,23 @@
+# Required libraries
+
+install.packages("tidytext")
+install.packages("tidyverse")
+install.packages("topicmodels")
+install.packages("ggplot2")
+install.packages("dplyr")
+install.packages("tidyr")
+install.packages("tibble")
+install.packages("tm")
+install.packages("wordcloud")
+install.packages("conflicted")
+
+library(tidytext)
+library(tidyverse)
+library(topicmodels)
+library(ggplot2)
+library(dplyr)
+library(tm)
+library(wordcloud)
+library(pheatmap)
+library(SnowballC)
+library(poweRlaw)
